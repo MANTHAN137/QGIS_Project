@@ -3,6 +3,8 @@
 ### Semester-4 IGT term project in QGIS AND ARCGIS
 
 # 1] QGIS 
+### Rainfall in Indian states
+Darker the color higher the rainfall and also showing the main dams in India
 ![Screenshot (51)](https://user-images.githubusercontent.com/90518833/176140776-ce464feb-d0e9-4192-8601-3ceddbd70369.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/90518833/176140792-605eeddb-7254-4872-a008-619824f8ce14.png)
 
